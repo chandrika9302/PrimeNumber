@@ -7,7 +7,7 @@ public class Logic {
 	public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter the integer value");
+		System.out.println("Enter the integer value"); // 
 		int n = scan.nextInt();
 		boolean b = false;
 		for( int i = n-1; i>1;i--) {
